@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nolan Smith. I am currently a Senior at UW-Madison studying Computer Science
+- 👀 I’m interested in exploring AI/ML and the potential innovative applications that it may have across the technology industry.
+- 🌱 I’m currently learning about Information Security, and Mobile Application Development for Android devices!
+- 📫 You can best reach me by email at nosmith@wisc.edu
